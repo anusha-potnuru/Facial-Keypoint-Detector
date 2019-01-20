@@ -6,4 +6,4 @@ Step 1: Detect faces using haar cascade classifier
 <br>
 Step 2: Add eye detection(if needed) 
 <br>
-Step 3: Detect keypoints using the Facial Keypoint Detector model created in notebook.pynb 
+Step 3: Detect keypoints using the Facial Keypoint Detector model created in model.pynb 
